@@ -50,7 +50,8 @@ public class CardTrick {
             System.out.println("The card is not in the hand.");
         }
     }
-
+    
+    //i'm Done!
     private static void printInfo() {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
