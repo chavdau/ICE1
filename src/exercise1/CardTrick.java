@@ -55,15 +55,15 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is [Your Name], nice to meet you!");
+        System.out.println("My name is Unnatkumar, nice to meet you!");
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- [Your career ambitions here]");
+        System.out.println("I am programmer, I want to be fullstack developer");
         System.out.println();	
 
         System.out.println("My hobbies:");
-        System.out.println("-- [Your hobbies here]");
+        System.out.println("I loved to play cricket and i also love reading.");
         
         System.out.println();
     }
